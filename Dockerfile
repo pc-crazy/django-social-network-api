@@ -7,10 +7,10 @@ FROM python:3.9
 WORKDIR /app
 
 # Copy the requirements file
-COPY requirements.txt /app/
+COPY requirments.txt /app/
 
 # Install dependencies
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirments.txt
 
 # Copy the entire project
 COPY . /app/
