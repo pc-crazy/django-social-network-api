@@ -66,8 +66,8 @@ This is a Django REST Framework-based API for a social networking application, w
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/pc-crazy/drf_login.git
-    cd drf_login
+    git clone https://github.com/pc-crazy/django-social-network-api.git
+    cd django-social-network-api
     ```
 
 2. **Create and activate a virtual environment:**
